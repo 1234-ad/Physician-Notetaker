@@ -1,0 +1,13 @@
+Doctor: Good morning. What brings you in today?
+Patient: Good morning, doctor. I've been experiencing severe headaches for the past week.
+Doctor: Can you describe the headaches? Where do you feel them?
+Patient: They're mostly on the right side of my head, and they come with nausea.
+Doctor: I see. Have you had any vision problems or sensitivity to light?
+Patient: Yes, bright lights make it worse, and sometimes my vision gets blurry.
+Doctor: These sound like migraine symptoms. Have you taken any medication?
+Patient: I tried over-the-counter painkillers, but they didn't help much.
+Doctor: I understand. I'm going to prescribe you a migraine-specific medication. You should also keep a headache diary to track triggers.
+Patient: That sounds good. How long will it take to see improvement?
+Doctor: Most patients see improvement within a few days. If not, we'll try a different approach.
+Patient: Thank you, doctor. I appreciate your help.
+Doctor: You're welcome. Come back if symptoms worsen or don't improve in two weeks.
